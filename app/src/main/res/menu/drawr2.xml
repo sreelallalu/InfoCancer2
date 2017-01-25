@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/my_questionx_do"
+
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="Questions" />
+        <item
+            android:id="@+id/my_doctorcomm"
+
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="commented_post" />
+
+
+
+
+
+
+    </group>
+</menu>
